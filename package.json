@@ -1,0 +1,15 @@
+{
+  "name": "ho-module",
+  "version": "0.1.0",
+  "description": "Utilities to generate higher order module using redux",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
