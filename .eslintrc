@@ -1,7 +1,10 @@
 {
   "extends": ["plugin:prettier/recommended"],
   "parserOptions": {
-    "ecmaVersion": 2015,
-    "sourceType": "module"
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    }
   }
 }
